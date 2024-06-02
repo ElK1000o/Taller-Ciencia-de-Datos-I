@@ -1,7 +1,7 @@
 ---
 Titulo: "Repositorio de Taller de Ciencia de Datos I - Carrera Data Science"
 Autor: "Camilo Riquelme Horta"
-Fecha: '16-10-2023'
+Fecha: '10-05-2024'
 Universidad: "Universidad Mayor"
 Carrera: "Data Science" 
 Docente: "Felipe Urbina" 
