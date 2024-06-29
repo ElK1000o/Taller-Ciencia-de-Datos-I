@@ -15,8 +15,6 @@ El repositorio presenta las siguientes carpetas:
 
 - **Casen/**: Correspondiente a pdf de la misma encuesta y libro de código (excel).
 
-- **Informe/**: Esta carpeta contiene el informe en $LaTeX$ (.tex) y en pdf. 
-
 - **input/**: Contiene datos de origen (carpeta data). 
 
 - **output/**: Contiene datos procesados (carpeta data) y gráficas correspondientes (carpeta fig).
